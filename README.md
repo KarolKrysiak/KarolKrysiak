@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kuba Krysiak
 - 👀 I’m interested in design, front-end, UX and UI
-- 🌱 I’m currently learning JS Vanilla, Python
+- 🌱 I’m currently learning JS Vanilla, Python and GIT :)
 - 💞️ I’m looking to collaborate on web design and development
 - 📫 Mail to kubak.kry@gmail.com
 
